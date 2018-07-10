@@ -1,0 +1,8 @@
+body{
+  background-image: url(img/backgroundmario.jpg);
+  background-position: center;
+  background-size: cover;
+}
+li{
+    position: absolute;
+}
